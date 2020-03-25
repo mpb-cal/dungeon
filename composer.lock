@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "cd4690f9aa726504869a914c5f67e5ae",
+    "packages": [
+        {
+            "name": "mpb-cal/web-sight",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mpb-cal/WebSight.git",
+                "reference": "eb1c672bbfb5a836154ce1d069cd9dfc1170fec2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mpb-cal/WebSight/zipball/eb1c672bbfb5a836154ce1d069cd9dfc1170fec2",
+                "reference": "eb1c672bbfb5a836154ce1d069cd9dfc1170fec2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "WebSight\\": "/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "MPB",
+                    "email": "steelstring@protonmail.com"
+                }
+            ],
+            "description": "A website anti-framework for PHP.",
+            "time": "2020-03-10T22:19:46+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

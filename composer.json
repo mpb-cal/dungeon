@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mpb-cal/web-sight": ">=1"
+    }
+}
